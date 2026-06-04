@@ -129,6 +129,8 @@ IPV6是否开启查询：https://testipv6.com
 |Potplayer|https://potplayer.tv/|Windows|
 |IPTV Player|https://iptvplayer.stream|Web|
 
+ok影视删库，ok影视fork：https://github.com/lystv/fmapp/tree/ok/apk/release
+
 ------------
 
 TVBOX、影视和影视仓关系图：![](https://img.chkaja.com/e1f671cdbc3c0900.png)
