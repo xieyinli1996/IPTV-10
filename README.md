@@ -66,10 +66,10 @@ IPV6是否开启查询：https://testipv6.com
 |[qist](https://github.com/qist/tvbox)|https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/jsm.json|源|
 |[讴歌](https://tv.nxog.top/)|https://xn--xkkx-rp5imh.v.nxog.top/api.php?id=1|源|
 |[高天流云](https://github.com/gaotianliuyun/gao "高天流云")|https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json|源|
-|[肥猫](https://肥猫.com/)|http://肥猫.com/|源|
-|盒子迷|https://盒子迷.top/禁止贩卖|源|
-|[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")|http://我不是.摸鱼儿.com|源|
-|zwc365|http://kv.zwc365.com/tv.json|源|
+|~~[肥猫](https://肥猫.com/)~~|~~http://肥猫.com/~~|源|
+|[盒子迷](https://盒子迷.top)|https://盒子迷.top/禁止贩卖|源|
+|~~[摸鱼儿](https://www.xn--v4q818bf34b.com/ "摸鱼儿")~~|~~http://我不是.摸鱼儿.com~~|源|
+|~~zwc365~~|~~http://kv.zwc365.com/tv.json~~|源|
 |唐三|http://6080.eu.org/|源导航|
 |FongMi|https://fongmi.eu.org/|源导航|
 |~~OK猫开发~~|~~http://ok213.top/tv~~|源|
